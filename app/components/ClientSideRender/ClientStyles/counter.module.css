@@ -1,0 +1,14 @@
+@keyframes increaseWidthCounter {
+    0% {
+      width: 0;
+    }
+    100% {
+      width: 100%;
+    }
+}
+  
+.animateIncreaseWidthCounter {
+    animation: increaseWidthCounter 1280ms;
+    animation-fill-mode: forwards;
+}
+  

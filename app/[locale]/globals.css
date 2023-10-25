@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@400;500&family=Fjalla+One&family=Inter:wght@400;500&family=Lato&family=Playpen+Sans:wght@300;500&display=swap');
+body {
+  background-color: #C8CDD0;
+  font-family: 'Playpen Sans', cursive !important;
+}

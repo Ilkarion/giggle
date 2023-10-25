@@ -1,0 +1,43 @@
+@keyframes slide {
+    0% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(20px);
+    }
+    100% {
+        transform: translateY(0px);
+    }
+  }
+  
+.animateArrow {
+  animation: slide 2s infinite; /* The "infinite" value makes the animation run endlessly */
+}
+
+@keyframes night {
+  0% {
+    margin-right: 0px;
+    background-color: darkslategray;
+  }
+  100% {
+    margin-right: 33px;
+    background-color: #FCD34D;
+  }
+}
+.animateNight {
+  animation: night 0.2s forwards;
+}
+
+@keyframes day {
+  0% {
+    margin-right: 33px;
+    background-color: #FCD34D;
+  }
+  100% {
+    margin-right: 0px;
+    background-color: darkslategray;
+  }
+}
+.animateDay {
+  animation: day 0.2s forwards;
+}

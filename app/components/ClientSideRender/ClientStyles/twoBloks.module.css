@@ -1,0 +1,27 @@
+@keyframes moveRight {
+    0% {
+        opacity: 0;
+        left: 20%;
+    }
+    100% {
+        opacity: 1;
+        left: 0%
+    }
+}
+
+@keyframes moveLeft {
+    0% {
+        opacity: 0;
+        right: 20%;
+    }
+    100% {
+        opacity: 1;
+        right: 0%
+    }
+}
+.moveLeftBlock {
+    animation: moveLeft 0.4s ease-in forwards;
+}
+.moveRightBlock {
+    animation: moveRight 0.4s ease-in forwards;
+}

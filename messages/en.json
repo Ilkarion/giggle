@@ -1,0 +1,35 @@
+{
+    "Index": {
+        "ThemeLang": "English",
+        "Languages": {
+            "Lang1": "Polish",
+            "Lang2": "en"
+        },
+        "header": {
+            "part1": "I",
+            "part2": " can",
+            "part3": " use `React Intersection Observer` API",
+            "paragraphHeader": "Examples"
+        },
+        "ChangeLang": {
+            "eng": "English",
+            "pol": "Polish"
+        },
+        "TemperatureBg": {
+                "TempAirCond": "Air Conditioner",
+                "TempAutoCooling": "Auto cooling"
+        },
+        "SSR": {
+            "part1": "smaller bundle",
+            "part2": "SEO",
+            "part3": "resource efficient",
+            "part4": "we cant use `events`"
+        },
+        "CSR": {
+            "part1": "large bundle(data, code)",
+            "part2": "No SEO",
+            "part3": "more memory use"
+        }
+    }
+
+}

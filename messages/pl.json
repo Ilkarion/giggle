@@ -1,0 +1,35 @@
+{
+    "Index": {
+        "ThemeLang": "Angielski",
+        "Languages": {
+            "Lang1": "Polish",
+            "Lang2": "Angielski"
+        },
+        "header": {
+            "part1": "",
+            "part2": "Mogę",
+            "part3": " użyj interfejsu API `React Intersection Observer`",
+            "paragraphHeader": "Przykłady"
+        },
+        "ChangeLang": {
+            "eng": "Angielski",
+            "pol": "Polski"
+        },
+        "TemperatureBg": {
+            "TempAirCond": "Klimatyzator",
+            "TempAutoCooling": "Automatyczne chłodzenie"
+        },
+        "SSR": {
+            "part1": "mniejszy zestaw(dane, kod)",
+            "part2": "SEO",
+            "part3": "zasobooszczędność",
+            "part4": "nie możemy używać `events`"
+        },
+        "CSR": {
+            "part1": "wielki zestaw(dane, kod)",
+            "part2": "Niema SEO",
+            "part3": "większe użycie pamięci"
+        }
+    }
+
+}
